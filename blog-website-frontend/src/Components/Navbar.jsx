@@ -30,7 +30,7 @@ function Navbar() {
                 onClick={handleHome} 
                 className="text-2xl font-bold text-gray-200 hover:text-gray-400 transition duration-200"
             >
-                Blogs Website
+                ProBlogs
             </button>
             <div className="flex gap-4 items-center">
                 <button 
